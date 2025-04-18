@@ -5,6 +5,14 @@ body {
     h1, h2 {
         color: #00796b;
       }
+      nav a {
+        margin-right: 10px;
+        text-decoration: none;
+        color: #004d40;
+      }
+      nav a:hover {
+        text-decoration: underline;
+      }
       
   }
   
